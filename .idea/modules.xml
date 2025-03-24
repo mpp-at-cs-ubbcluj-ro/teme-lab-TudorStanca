@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Cerinta Lab 1.iml" filepath="$PROJECT_DIR$/.idea/Cerinta Lab 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SQLite_Module.iml" filepath="$PROJECT_DIR$/SQLite_Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SQLite_Module.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SQLite_Module.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SQLite_Module.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SQLite_Module.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StartGradle.iml" filepath="$PROJECT_DIR$/StartGradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartGradle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/StartGradle.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartGradle.test.iml" filepath="$PROJECT_DIR$/.idea/modules/StartGradle.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/example.iml" filepath="$PROJECT_DIR$/.idea/modules/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/example.main.iml" filepath="$PROJECT_DIR$/.idea/modules/example.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/example.test.iml" filepath="$PROJECT_DIR$/.idea/modules/example.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module/module.iml" filepath="$PROJECT_DIR$/module/module.iml" />
+    </modules>
+  </component>
+</project>
